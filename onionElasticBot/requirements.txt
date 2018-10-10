@@ -9,7 +9,7 @@ cssselect==0.9.1
 enum34==1.0.4
 html2text==2015.2.18
 lxml==3.4.2
-pyOpenSSL==0.14
+pyOpenSSL==17.5.0
 pyasn1==0.1.7
 pyasn1-modules==0.0.5
 pycparser==2.10
