@@ -1,6 +1,6 @@
 Scrapy==0.24.5
 ScrapyElasticSearch==0.6.1
-Twisted==15.0.0
+Twisted==19.2.1
 argparse==1.2.1
 cffi==0.9.1
 characteristic==14.3.0
