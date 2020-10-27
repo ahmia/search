@@ -4,7 +4,7 @@ Twisted==19.2.1
 argparse==1.2.1
 cffi==0.9.1
 characteristic==14.3.0
-cryptography==0.8
+cryptography==3.2
 cssselect==0.9.1
 enum34==1.0.4
 html2text==2015.2.18
