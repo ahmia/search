@@ -8,7 +8,7 @@ cryptography==0.8
 cssselect==0.9.1
 enum34==1.0.4
 html2text==2015.2.18
-lxml==3.4.2
+lxml==4.6.3
 pyOpenSSL==17.5.0
 pyasn1==0.1.7
 pyasn1-modules==0.0.5
